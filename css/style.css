@@ -9,8 +9,6 @@
 
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    height: 1080px;
-    width: 1920px;
 }
 
 
@@ -113,4 +111,5 @@ main {
     align-items: center;
     padding-left: 35px;
     color: #F3F3F3;
+    margin-top: 300px;
  }
